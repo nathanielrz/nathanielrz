@@ -7,6 +7,7 @@
     "username": "@nathanielrz",
     "browser": "firefox",
     "code-editor": "vscode",
+    "portfolio": "https://nathanielrz.vercel.app",
     "languages": [
         "typescript",
         "javascript",
