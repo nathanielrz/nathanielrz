@@ -5,17 +5,22 @@
 {
     "name": "Nathaniel",
     "username": "@nathanielrz",
-    "browser": "firefox",
+    "browser": "Firefox",
     "code-editor": "vscode",
     "portfolio": "https://nathanielrz.vercel.app",
+    "does-nate-game": true,
     "languages": [
-        "typescript",
-        "javascript",
-        "c#",
-        "c++",
-        "python",
-        "html",
-        "css"
+        "TypeScript",
+        "JavaScript",
+        "C#",
+        "Python",
+        "HTML",
+        "CSS"
+    ],
+    "learning": [
+        "Java",
+        "C",
+        "C++"
     ]
 }
 ```
