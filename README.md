@@ -1,6 +1,3 @@
-- 💬 Ask me about my projects
-- I’m currently learning Java, C, and more C++
-- 📫 How to reach me: COMING SOON
 ```json
 {
     "name": "Nathaniel",
