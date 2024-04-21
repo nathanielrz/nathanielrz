@@ -4,8 +4,6 @@
     "username": "@nathanielrz",
     "browser": "Firefox",
     "code-editor": "vscode",
-    "portfolio": "https://nathanielrz.pages.dev",
-    "does-nate-game": true,
     "languages": [
         "TypeScript",
         "JavaScript",
