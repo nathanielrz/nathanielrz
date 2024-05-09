@@ -3,7 +3,7 @@
     "name": "Nathaniel",
     "username": "@nathanielrz",
     "browser": "Firefox",
-    "code-editor": "vscode",
+    "IDE": "vscode",
     "languages": [
         "TypeScript",
         "JavaScript",
